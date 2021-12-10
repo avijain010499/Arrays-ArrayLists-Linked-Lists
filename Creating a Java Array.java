@@ -7,7 +7,6 @@ class Source {
 
     public static void printArray(int[] arr) {
 
-        // Declare printArray method here
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i] + "\n");
         }
